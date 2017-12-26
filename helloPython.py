@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of cd935fd... Revert "change to English"
 =======
@@ -29,3 +30,6 @@ print ¡®hello world¡¯£»
 >>>>>>> parent of cd935fd... Revert "change to English"
 =======
 >>>>>>> parent of ca4ad1e... 1
+=======
+print 'hello world';
+>>>>>>> parent of fae03b1... 1
